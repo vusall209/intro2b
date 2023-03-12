@@ -1,0 +1,64 @@
+compmgmt.msc    Görevi: Bilgisayar yönetimi
+
+timedate.cpl    Görevi: Tarih ayarlama penceresi
+
+notepad.exe     Görevi: Not defteri
+
+clipbrd.exe     Görevi: Pano işlemcisi
+
+ciadv.msc       Görevi: Dizin yöneticisini
+
+charmap.exe     Görevi: Karakterleri ayarlamanızı sağlar.
+
+calc.exe        Görevi: Hesap makinesini
+
+diskmgmt.msc    Görevi: Disk yönetimini
+
+dfrg.msc        Görevi: Disk birleştiriciyi
+
+accwiz.exe      Görevi: Erişebilirlik sihirbazı
+
+desk.cpl        Görevi: Görüntü özellikleri
+
+eventvwr.exe    Görevi: Olay görüntüleyicisi
+
+freecell.exe    Görevi: İskambil oyunu
+
+fsmgmt.msc      Görevi: Paylaşılan klasörler menüsü
+
+hdwwiz.cpl      Görevi: Donanım ekleme sihirbazı.
+
+inetcpl.cpl     Görevi: İnternet özellikleri
+
+intl.cpl        Görevi: Bölge ve dil ayarları
+
+magnify.exe     Görevi: Büyüteç
+
+main.cpl        Görevi: Fare özellikleri
+
+mmsys.cpl       Görevi: Ses ayarları
+
+ntbackup.exe    Görevi: Yedekleme sihirbazı
+
+nusrmgr.cpl     Görevi: Kullanıcı hesapları
+
+
+spider.exe  Görevi: Kağıt oyunu
+
+msconfig.exe Görevi: Sistem ayarları
+
+verifier.exe Görevi: Sürücü monitörü
+
+drwtsn32.exe Görevi: Sorun tanıma aracı
+
+dxdiag.exe Görevi: DirectX sürümü
+
+mplay32.exe Görevi: Media Player basit sürümü
+
+odbcad32.exe Görevi: Database işleme
+
+packager.exe Görevi: Obje paketleyiciyi
+
+perfmon.exe Görevi: Sistem monitörünü
+
+progman.exe Görevi: Masaüstü yöneticisi
